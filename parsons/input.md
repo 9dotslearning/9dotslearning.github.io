@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Page 2 Example (Variable Check Grader)
+title: input()
 ---
 
-Construct a program that swaps the values of variables <code>x</code> and <code>y</code> using the helper variable <code>tmp</code>. You can change the names of the variables (<span class="jsparson-toggle"></span>) by clicking them.
+One of these blocks shows the question, **What is the most popular birth month?**
+Drag that block into the yellow slot and then click **Get Feedback**
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
