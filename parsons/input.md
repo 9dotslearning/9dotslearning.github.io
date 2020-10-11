@@ -3,7 +3,7 @@ layout: default
 title: input()
 ---
 
-<h1 style="color:#32a852">One of these blocks shows the question, **What is the most popular birth month?**
+<h1 style="color:#32a852">One of these blocks asks players to answer the question, <strong>What is the most popular birth month?</strong>
 Drag that block into the yellow slot and then click **Get Feedback**</h1>
 
 <div id="sortableTrash" class="sortable-code"></div> 
