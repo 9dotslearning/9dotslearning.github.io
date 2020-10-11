@@ -3,8 +3,8 @@ layout: default
 title: input()
 ---
 
-One of these blocks shows the question, **What is the most popular birth month?**
-Drag that block into the yellow slot and then click **Get Feedback**
+#<span style="color:red">One of these blocks shows the question, **What is the most popular birth month?**
+Drag that block into the yellow slot and then click **Get Feedback**</span>#
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
