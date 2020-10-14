@@ -45,4 +45,4 @@ title: input()
 })(); 
 </script>
 
-Done!
+[Next](./ifelse2.html)
