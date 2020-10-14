@@ -3,7 +3,7 @@ layout: default
 title: input()
 ---
 
-<h2 style="color:#cb42f5">Which block asks players for the most popular birth month and saves the answer?</h2>
+<h2 style="color:#cb42f5">Ask players the color of Mars.</h2>
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
