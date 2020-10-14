@@ -46,5 +46,4 @@ title: input()
 })(); 
 </script>
 
-
-[Next](./ifelse2.html)
+Done!
