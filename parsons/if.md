@@ -3,7 +3,7 @@ layout: default
 title: input()
 ---
 
-<h2 style="color:#cb42f5">Ask players the color of Mars.</h2>
+<h2 style="color:#cb42f5">Ask players the color of Mars. Print 'Yes!' if they get it right.</h2>
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
