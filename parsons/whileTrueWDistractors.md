@@ -1,6 +1,6 @@
 ---
 layout: default
-title: input()
+title: While
 ---
 
 <h2 style="color:#cb42f5">Make this game:</h2>
