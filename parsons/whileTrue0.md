@@ -4,7 +4,7 @@ title: While
 ---
 
 <h2 style="color:#cb42f5">Make this game:</h2>
-<p style="color:#cb42f5"><ul><li>Repeat the following tasks...</li><li>Print: I'm bored</li><li>Ask players to press enter</li></ul></p>
+<p><ul><li style="color:#cb42f5">Repeat the following tasks...</li><li style="color:#cb42f5">Print: I'm bored</li><li style="color:#cb42f5">Ask players to press enter</li></ul></p>
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
