@@ -3,7 +3,7 @@ layout: default
 title: Get My Fate
 ---
 
-<p style="color:#cb42f5"><ul><li>Repeat the following 3 tasks...</li><li>Create a random number from 0 to 2.</li><li>Print a message.</li><li>If the number is 0, stop repeating.</li></ul></p>
+<h2 style="color:#cb42f5">Repeat... print I'm bored and then ask players to press enter</h2>
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
 <p> 
