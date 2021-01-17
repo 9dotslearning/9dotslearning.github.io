@@ -1,6 +1,6 @@
 ---
 layout: default
-title: input()
+title: Get My Fate
 ---
 
 <h2 style="color:#cb42f5">Make this game:</h2><div id="sortableTrash" class="sortable-code"></div> 
