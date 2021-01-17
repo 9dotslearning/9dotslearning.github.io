@@ -1,6 +1,6 @@
 ---
 layout: default
-title: input()
+title: if
 ---
 
 <h2 style="color:#cb42f5">Ask players the color of Mars. Print 'Yes!' if they get it right.</h2>
