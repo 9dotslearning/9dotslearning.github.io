@@ -3,7 +3,6 @@ layout: default
 title: Get My Fate
 ---
 
-<h2 style="color:#cb42f5">Make this game:</h2><div id="sortableTrash" class="sortable-code"></div> 
 <p style="color:#cb42f5"><ul><li>Repeat the following 3 tasks...</li><li>Create a random number from 0 to 2.</li><li>Print a message.</li><li>If the number is 0, stop repeating.</li></ul></p>
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
