@@ -3,6 +3,7 @@ layout: default
 title: Get My Fate
 ---
 
+<h2 style="color:#cb42f5">Repeatedly print I'm bored and then ask players to press enter.</h2>
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
