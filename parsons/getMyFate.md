@@ -1,4 +1,11 @@
-<div id="sortableTrash" class="sortable-code"></div> 
+---
+layout: default
+title: Get My Fate
+---
+
+<h2 style="color:#cb42f5">Make this game: repeat... create a random number from 0 to 2, print a message, if you got 0 stop repeating.</h2>
+
+
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
 <p> 
