@@ -16,11 +16,11 @@ title: While
 <script type="text/javascript"> 
 (function(){
   var initial = "while True:\n" +
-    "	print(&quot;I&#039;m bored.&quot;)\n" +
-    "    input(&quot;press enter to continue&quot;)\n" +
-    "while true: #distractor\n" +
+    "    print(&quot;I am bored.&quot;)\n" +
+    "    input(&quot;press enter &quot;)\n" +
     "while True #distractor\n" +
-    "print(I&#039;m bored.) #distractor";
+    "while true: #distractor\n" +
+    "print(I am bored) #distractor";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "sortable",
     "max_wrong_lines": 10,
